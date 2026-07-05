@@ -174,7 +174,7 @@ Add screenshots of:
 
 ## Author
 
-**Kristhu Raju Konda**
+**Kondapalli Pujitha**
 
 B.Tech – Computer Science and Engineering (AI & ML)
 
